@@ -7,6 +7,16 @@
   align-items: center;
 }
 
+.footer ul {
+  list-style-type: none;
+  display: inline-flex;
+}
+
+.footer li + li::before {
+  content: "|";
+  padding: 1rem;
+}
+
 .logo {
   height: 1em;
   margin: 5px;
