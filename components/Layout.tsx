@@ -7,7 +7,7 @@ type LayoutProps = {
 }
 export default function Layout({ children }: LayoutProps) {
   return (
-    <div className="container">
+    <div>
       <Head>
         <title>Got Alex</title>
         <link rel="icon" href="/favicon.ico" />
