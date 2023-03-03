@@ -24,7 +24,7 @@ const projects: Project[] = [
     ),
   },
   {
-    title: 'Alexa Skill - My Pet Rock 🪨',
+    title: '🪨 Alexa Skill - My Pet Rock',
     body: (
       <>
         <p>
@@ -37,7 +37,7 @@ const projects: Project[] = [
     ),
   },
   {
-    title: 'Alexa Skill - Interview Prep 📈',
+    title: '📈 Alexa Skill - Interview Prep',
     body: (
       <>
         <p>
@@ -53,7 +53,7 @@ const projects: Project[] = [
     ),
   },
   {
-    title: 'Alexa Skill - Ancient Alchemy 🪄',
+    title: '🪄 Alexa Skill - Ancient Alchemy',
     body: (
       <p>
 			  In <a href="https://www.amazon.com/Alexander-King-Ancient-Alchemy/dp/B074F4NHJ8" target="_blank"rel="noopener noreferrer">Ancient Alchemy</a>,
