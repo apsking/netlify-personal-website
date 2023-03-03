@@ -4,7 +4,7 @@ import Layout from '../components/Layout';
 export default function Home() {
   return (
     <Layout>
-      <Header title="Hi, my name is Alex." />
+      <Header title="👋 Hi, my name is Alex." />
       <p>
         I'm a life-long student, a software engineer by trade, and a tinkerer at heart. I have a full-stack background 
         and have worked at places like Microsoft and Amazon. Check out
